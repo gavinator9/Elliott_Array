@@ -1,0 +1,15 @@
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\bin\Debug\net6.0\Elliott_array.exe
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\bin\Debug\net6.0\Elliott_array.deps.json
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\bin\Debug\net6.0\Elliott_array.runtimeconfig.json
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\bin\Debug\net6.0\Elliott_array.dll
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\bin\Debug\net6.0\Elliott_array.pdb
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\obj\Debug\net6.0\Elliott_array.csproj.AssemblyReference.cache
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\obj\Debug\net6.0\Elliott_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\obj\Debug\net6.0\Elliott_array.AssemblyInfoInputs.cache
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\obj\Debug\net6.0\Elliott_array.AssemblyInfo.cs
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\obj\Debug\net6.0\Elliott_array.csproj.CoreCompileInputs.cache
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\obj\Debug\net6.0\Elliott_array.dll
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\obj\Debug\net6.0\refint\Elliott_array.dll
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\obj\Debug\net6.0\Elliott_array.pdb
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\obj\Debug\net6.0\Elliott_array.genruntimeconfig.cache
+C:\Users\Leslie\source\repos\Elliott_arraysolution\Elliott_array\obj\Debug\net6.0\ref\Elliott_array.dll
