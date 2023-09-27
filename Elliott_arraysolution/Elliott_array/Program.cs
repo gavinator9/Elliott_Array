@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics;
+using System.Linq;
 
 namespace Elliott_array
 {
@@ -13,7 +14,7 @@ namespace Elliott_array
             char[] container=new char[50];
             Stopwatch sw= new Stopwatch();
 
-            var limits=new HashSet<int>() { 91, 92, 93, 94, 95, 96 };
+           // var limits=new HashSet<int>() { 91, 92, 93, 94, 95, 96 };
             sw.Start();
             for (int i=0; i<50; i++ )
             {
@@ -21,15 +22,15 @@ namespace Elliott_array
 
 
                 ascii = r.Next(65, 123);
+                input = (char)ascii;
 
-                while (limits.Contains(ascii)==true)
+                while (container.Contains(input) == true || Char.IsLetter(input)==false)
                 {
                     ascii = r.Next(65, 123);
+                    input = (char)ascii;
                 }
 
-                input = (char)ascii;
                 container[i] = input;
-                limits.Add(ascii);
 
             }
             sw.Stop();

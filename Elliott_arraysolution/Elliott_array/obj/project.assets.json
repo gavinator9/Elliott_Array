@@ -8,27 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Leslie\\.nuget\\packages\\": {},
-    "C:\\Users\\Leslie\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\epikd\\.nuget\\packages\\": {},
+    "C:\\Users\\epikd\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leslie\\source\\repos\\Elliott_arraysolution\\Elliott_array\\Elliott_array.csproj",
+      "projectUniqueName": "C:\\Users\\epikd\\OneDrive\\Desktop\\Elliott_Array-main\\Elliott_arraysolution\\Elliott_array\\Elliott_array.csproj",
       "projectName": "Elliott_array",
-      "projectPath": "C:\\Users\\Leslie\\source\\repos\\Elliott_arraysolution\\Elliott_array\\Elliott_array.csproj",
-      "packagesPath": "C:\\Users\\Leslie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leslie\\source\\repos\\Elliott_arraysolution\\Elliott_array\\obj\\",
+      "projectPath": "C:\\Users\\epikd\\OneDrive\\Desktop\\Elliott_Array-main\\Elliott_arraysolution\\Elliott_array\\Elliott_array.csproj",
+      "packagesPath": "C:\\Users\\epikd\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\epikd\\OneDrive\\Desktop\\Elliott_Array-main\\Elliott_arraysolution\\Elliott_array\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Users\\Leslie\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Users\\epikd\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Leslie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Users\\Leslie\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\epikd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\epikd\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
